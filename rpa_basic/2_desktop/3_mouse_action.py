@@ -10,3 +10,6 @@ pyautogui.sleep(3)
 
 # pyautogui.doubleClick()
 # pyautogui.click(clicks=500)
+
+pyautogui.rightClick()
+pyautogui.middleClick()
